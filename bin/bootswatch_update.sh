@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-VERSION=3.4.1
+VERSION=5.0.2
 THEMES=(
     cerulean
     cosmo
